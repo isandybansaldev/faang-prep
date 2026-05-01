@@ -5,8 +5,9 @@
 1. [Search an element in an array](./search-element.js)
 2. [Count Negative number](./count-negative-number.js)
 3. [Find Largest number in an array](./find-largest-number.js)
+4. [Find Smallest number in an array](./find-smallest-number.js)
 
-### Notes
+### 📘 Notes
 
 **Why -1 is not a good starting value for finding the largest number**
 
