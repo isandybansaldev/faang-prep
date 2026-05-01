@@ -1,6 +1,8 @@
 ## FAANG Prep
 
-This repository documents my journey to becoming a stronger software engineer through structured learning and consistent practice.
+This repository is focused on preparing for **FAANG / top product-based company interviews**.
+
+The approach is simple: **build strong problem-solving skills first**, then move towards **designing scalable systems**.
 
 It currently focuses on two key areas:
 
@@ -23,3 +25,7 @@ It currently focuses on two key areas:
 
 * 👉 [DSA](./dsa/README.md)
 * 👉 System Design (Coming Soon)
+
+🔄 **Updates**
+
+This repository is actively maintained and updated on a daily basis as part of ongoing preparation. New problems, notes, and improvements are added regularly.
